@@ -39,8 +39,6 @@ public static int topla2(int... sayilar) {
 public static String sehirVer() {
 	return "Ankara";
 	
-	
-	
 }
 
 }
